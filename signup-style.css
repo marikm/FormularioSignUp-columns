@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.linha {
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+    margin: 5px 0;
+}
+.col{
+    gap: 5px;
+    width: 100%;
+}
+/* .col1{ width: 10%; float: left; }
+.col2{ width: 20%; float: left; }
+.col3{ width: 30%; float: left; }
+.col4{ width: 40%; float: left; }
+.col5{ width: 50%; float: left; }
+.col6{ width: 60%; float: left; }
+.col7{ width: 70%; float: left; }
+.col8{ width: 80%; float: left; }
+.col9{ width: 90%; float: left; }
+.col10{ width: 100%; float: left; } */
+
+input[type=text], 
+input[type=email],
+input[type=tel], 
+.col textarea{
+    width: 100%;
+    gap: 5px;
+    border:1px solid #999;
+}
+
+
