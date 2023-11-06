@@ -35,7 +35,7 @@ input[type=tel],
 .col textarea{
     width: 100%;
     gap: 5px;
-    border:1px solid #999;
+    border:1px solid red
 }
 
 
