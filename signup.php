@@ -14,8 +14,8 @@
     <main>
         <h2>Please complete  all information below:</h2>
     <div class="container">
-        <label class="linha" for="civil-st">Name</label>
-            <div class="linha">
+        <label class = "linha" for="civil-st">Name</label>
+            <div class="linha1">
                 <div class="col">
                     <input type="text" id="civil-st" name="civil-st"/>
                     <label class="sublinha" for="civil-st">Mr/Mrs/Ms</label>
@@ -55,7 +55,7 @@
                 <input type="text" name="adress2" id="adress2"/>
                 <label class="sublinha" for="adress2">Street Adress Line 2</label>
             </div>
-            <div class="linha">
+            <div class="linha1">
                 <div class="col">
                     <input type="text" name="city" id="city"/>
                     <label class="sublinha" for="city">City</label>
