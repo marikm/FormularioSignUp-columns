@@ -17,7 +17,7 @@
         <label class = "linha" for="civil-st">Name</label>
             <div class="linha1">
                 <div class="col">
-                    <input type="text" id="civil-st" name="civil-st"/>
+                    <input type="text" id="civil-st" name="civil-st" autofocus/>
                     <label class="sublinha" for="civil-st">Mr/Mrs/Ms</label>
                 </div>
                 <div class="col">
