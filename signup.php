@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SignUp | Email</title>
-    <link rel="stylesheet" href="./signup-style.css">
+    <link rel="stylesheet" href="../202311-formulario-signup/signup-style.css">
 </head>
 <body>
     <header>
@@ -89,7 +89,6 @@
         <div class="col">
             <label class="linha" for="password">Confirm password</label>
             <input type="text" name="password" id="password"/>
-            
         </div>
     </div>
 

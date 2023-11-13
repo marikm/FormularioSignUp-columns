@@ -48,10 +48,14 @@ h2{
     gap: 10px;
 
 }
+.linha1 .col{
+    width: 100%;
+}
+
 .sublinha{
     font-size: 12px;
     display: block;
-    width: 100%;
+    /* width: 100%; */
     height: 50px;
     padding: 10px 0 0 0; 
     color: #858585;
@@ -60,13 +64,14 @@ h2{
 
 .col{
     font-weight: 400;
-    width: 100%;}
+}
 
 input, textarea{
     border:1px solid rgba(128, 128, 128, 0.379);
     border-radius: 5px;
     display: flex;
-    width: 100%;}
+    width: 100%;
+    }
 
 input{
     height: 45px;}
@@ -87,4 +92,9 @@ button{
     border-radius: 2px;
 }
 
+@media(max-width: 1023px){
+    .linha1{
+        flex-wrap: wrap;
+    }
+}
 
