@@ -79,9 +79,25 @@
         </div>
     
     </main>
+
+    <div class="container">
+        <div class="col">
+            <label class="linha" for="password">Password</label>
+            <input type="text" name="password" id="password"/>
+            
+        </div>
+        <div class="col">
+            <label class="linha" for="password">Confirm password</label>
+            <input type="text" name="password" id="password"/>
+            
+        </div>
+    </div>
+
     <div class="botao">
         <button>Submit</button>
     </div>
+
+
 
 </body>
 </html>
