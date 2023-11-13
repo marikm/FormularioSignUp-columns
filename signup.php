@@ -88,13 +88,14 @@
         </div>
         <div class="col">
             <label class="linha" for="password">Confirm password</label>
-            <input type="text" name="password" id="password"/>
+            <input type="text" name="password1" id="password1"/>
         </div>
     </div>
 
     <div class="botao">
         <button>Submit</button>
     </div>
+    <script src="./signup.js"></script>
 
 
 
