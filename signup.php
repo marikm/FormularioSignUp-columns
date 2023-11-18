@@ -86,6 +86,7 @@
             <input type="text" name="password" id="password"/>
             
         </div>
+        <div id="senhaErro" style="color:red"> As senhas não coincidem</div>
         <div class="col">
             <label class="linha" for="password">Confirm password</label>
             <input type="text" name="password1" id="password1"/>
@@ -95,6 +96,7 @@
     <div class="botao">
         <button>Submit</button>
     </div>
+
     <script src="./signup.js"></script>
 
 
